@@ -7,3 +7,4 @@ We've been given access to the complete data from their most recent animal study
 ## Visualizations
 
 * A scatter plot that shows how the tumor volume changes over time for each treatment.
+* A scatter plot that shows how the number of [metastatic](https://en.wikipedia.org/wiki/Metastasis) (cancer spreading) sites changes over time for each treatment.
